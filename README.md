@@ -1,6 +1,12 @@
-Código para pasar audio de un discurso a texto para analizar los discursos del Presidente de España durante la crisis del coronavirus
+Código para pasar audio de un discurso a texto para analizar los discursos del Presidente de España durante la crisis del coronavirus. De momento contamos el número de palabras. 
 
-# Descargar un vídeo de RTVE, YouTube, etc.
+# Discursos procesados
+
+Puedes descargar los ficheros json de los discursos y los csv con el conteo de palabras en la carpeta [discursos](discursos)
+
+# Cómo procesar otro audio
+
+## Descargar un vídeo de RTVE, YouTube, etc.
 
 1. Descargar el vídeo con Video Download Helper para Firefox u otra herramienta:
 
@@ -10,7 +16,7 @@ Código para pasar audio de un discurso a texto para analizar los discursos del 
 ffmpeg -i 2020-03-14-intervencion_presidente.webm 2020-03-14-intervencion_presidente.mp3
 ```
 
-# Procesar audio con IBM Watson Speech to Text:
+## Procesar audio con IBM Watson Speech to Text:
 
 Vamos a usar el servicio *Speech to Text* de IBM Watson para pasar el audio a texto.
 
@@ -30,21 +36,23 @@ curl -X GET -u "apikey:{apikey}" \
 "{url}/v1/recognitions/{job_id}" > 2020-03-14-intervencion_presidente.json
 ```
 
-# Procesar y limpiar el texto con spacy
+## Procesar y limpiar el texto con spacy
 
+El siguiente código saca el texto del json y lo pone en una cadena listo para usarlo desde spacy. 
 
+[procesa_discurso.py](procesa_discurso.py)
 
+## Requisitos
 
+Pandas, Spacy y ffmpeg.
 
-# Requisitos
-
+Si tienes conda ya instalado: 
 ```
 conda install -c conda-forge spacy
 python -m spacy download es_core_news_sm
 ```
 
-Upgrading
-
+Upgrading:
 ```
 pip install -U spacy
 python -m spacy validate
