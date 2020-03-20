@@ -9,7 +9,7 @@ nlp.Defaults.stop_words.add('y')
 nlp.Defaults.stop_words.add('o')
 nlp.Defaults.stop_words.add('a')
 
-json_file = '2020-03-14-intervencion_presidente.json'
+json_file = '2020-03-19_Rueda_prensa_comite_tecnico.json'
 
 with open(json_file) as f:
   data = json.load(f)
@@ -22,11 +22,14 @@ for sentence in results_list:
 
 doc = nlp(big_str)
 
+#lematizamos (no me gusta el resultado, e.j, paramos -> parir, gracias->gracia)
+#token = [token.lemma_ for token in doc]
 # quitamos las stop words 
 token = [token.text for token in doc if not token.is_stop]
-filtered_data = ' '.join(token)
 
+filtered_data = ' '.join(token)
 filtered_doc = nlp(filtered_data)
+
 counts = filtered_doc.count_by(ORTH)
 print(len(counts))
 word_list = []
@@ -35,4 +38,5 @@ for word_id, count in sorted(counts.items(), reverse=True, key=lambda item: item
     word_list.append({'Veces': count, 'Palabra': nlp.vocab.strings[word_id]})
 
 df = pd.DataFrame(word_list)
-df.to_csv('2020-03-14-intervencion_presidente.csv', index=False)
+csv_file = json_file.split('.json')[0] + '.csv'
+df.to_csv(csv_file, index=False)

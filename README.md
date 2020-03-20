@@ -15,6 +15,12 @@ Puedes descargar los ficheros json de los discursos y los csv con el conteo de p
 ```bash
 ffmpeg -i 2020-03-14-intervencion_presidente.webm 2020-03-14-intervencion_presidente.mp3
 ```
+Forzar recodificado de audio: 
+
+```bash
+ffmpeg -i 2020-03-14-intervencion_presidente.webm -codec:a libmp3lame -qscale:a 2 -f mp3 2020-03-14-intervencion_presidente.mp3
+```
+
 
 ## Procesar audio con IBM Watson Speech to Text:
 
