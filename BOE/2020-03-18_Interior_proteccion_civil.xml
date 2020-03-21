@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20200318122601">
+  <metadatos>
+    <identificador>BOE-A-2020-3696</identificador>
+    <titulo>Orden INT/228/2020, de 15 de marzo, por la que se establecen criterios de aplicación del Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, en el ámbito del Sistema Nacional de Protección Civil.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <diario_numero>68</diario_numero>
+    <seccion>1</seccion>
+    <subseccion/>
+    <departamento codigo="7320">Ministerio del Interior</departamento>
+    <rango codigo="1350">Orden</rango>
+    <numero_oficial>INT/228/2020</numero_oficial>
+    <fecha_disposicion>20200315</fecha_disposicion>
+    <fecha_publicacion>20200315</fecha_publicacion>
+    <fecha_vigencia>20200315</fecha_vigencia>
+    <fecha_derogacion/>
+    <letra_imagen>A</letra_imagen>
+    <pagina_inicial>25415</pagina_inicial>
+    <pagina_final>25416</pagina_final>
+    <suplemento_letra_imagen/>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estatus_derogacion>N</estatus_derogacion>
+    <url_epub>/diario_boe/epub.php?id=BOE-A-2020-3696</url_epub>
+    <url_pdf>/boe/dias/2020/03/15/pdfs/BOE-A-2020-3696.pdf</url_pdf>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+  </metadatos>
+  <analisis>
+    <notas/>
+    <materias>
+      <materia codigo="3193" orden="">Enfermedades</materia>
+      <materia codigo="3247" orden="">Epidemias</materia>
+      <materia codigo="3458" orden="">Estado de alarma</materia>
+      <materia codigo="5278" orden="">Organización de la Administración del Estado</materia>
+      <materia codigo="5778" orden="">Protección Civil</materia>
+      <materia codigo="6278" orden="">Sanidad</materia>
+    </materias>
+    <alertas>
+      <alerta codigo="121" orden="">Organización de la Administración</alerta>
+      <alerta codigo="124" orden="">Sanidad</alerta>
+      <alerta codigo="126" orden="">Seguridad y Defensa</alerta>
+    </alertas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2020-3692" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 4.3 del Real Decreto 463/2020, de 14 de marzo (Ref.</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-7730" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>la Ley 17/2015, de 9 de julio</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+  </analisis>
+  <texto>
+    <p class="parrafo">El Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, designa en su artículo 4.2.b), al Ministro del Interior autoridad delegada en su área de responsabilidad, determinando en el artículo 5.4 que los servicios de intervención y asistencia en emergencias de protección civil definidos en el artículo 17 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, actuarán bajo su dependencia funcional. Por su parte, el artículo 4.3 atribuye a los Ministros designados como autoridades competentes delegadas la habilitación para dictar las órdenes, resoluciones, disposiciones e instrucciones interpretativas que sean necesarias para garantizar la prestación de todos los servicios, ordinarios y extraordinarios en orden a la protección de personas, bienes y lugares.</p>
+    <p class="parrafo">En su virtud, dispongo:</p>
+    <p class="articulo">Primero. Constitución del Comité Estatal de Coordinación.</p>
+    <p class="parrafo">Por la Dirección General de Protección Civil y Emergencias se procederá a convocar inmediatamente el Comité Estatal de Coordinación (CECO), en el que se integrarán los Consejeros competentes en materia de protección civil y emergencias de las Comunidades y Ciudades Autónomas, o, por delegación de aquellos, los Directores Generales de Protección Civil y Emergencias, así como los Delegados del Gobierno en las Comunidades y Ciudades con Estatuto de Autonomía. Se integrarán en este CECO cuantas autoridades de las Administraciones Públicas se estime oportuno por parte de la presidencia del CECO.</p>
+    <p class="articulo">Segundo. Comunicación reforzada a través del Centro Nacional de Emergencias.</p>
+    <p class="parrafo">Durante la vigencia del estado de alarma se establece un sistema de comunicación reforzada de todos los servicios autonómicos de Protección Civil a través del Centro Nacional de Emergencias (CENEM), al que habrán de dirigirse todas las informaciones operativas relevantes y a través del cual se transmitirán las instrucciones generales o particulares que se acuerden.</p>
+    <p class="articulo">Tercero. Comunicación del estado de situación y mantenimiento de las medidas adoptadas.</p>
+    <p class="parrafo">Una vez publicada esta Orden Ministerial, las Direcciones Generales de Protección Civil y Emergencias u órganos equivalentes en las Comunidades y Ciudades con Estatuto de Autonomía remitirán al CENEM un informe de situación de las medidas adoptadas hasta la entrada en vigor del estado de alarma. Igualmente, recabarán la información correspondiente de las Corporaciones Locales de su ámbito territorial. Dichas medidas se consideran ratificadas y continuarán vigentes en tanto no resulten incompatibles con lo dispuesto en el Real Decreto 463/2020, de 14 de marzo.</p>
+    <p class="parrafo">Por la Dirección General de Protección Civil y Emergencias se determinará el contenido y periodicidad de los informes de situación que habrán de remitirse al CENEM. Con independencia de los informes periódicos, se emitirán cuantos otros específicos se consideren necesarios, por iniciativa propia de las Direcciones Generales de Protección Civil y Emergencias u órganos equivalentes en las Comunidades y Ciudades con Estatuto de Autonomía o a petición de los órganos centrales del Sistema Nacional.</p>
+    <p class="articulo">Cuarto. Gestión ordinaria de los servicios de protección civil.</p>
+    <p class="parrafo">De conformidad con el artículo 6 del Real Decreto 463/2020, de 14 de marzo, todos los Servicios de Protección Civil continuarán ejerciendo las competencias que les otorga la vigente legislación para la gestión ordinaria del servicio y adoptarán las medidas que estimen necesarias a tal fin, en el marco de las directrices e instrucciones que se emitan por el Ministerio del Interior, remitiendo los correspondientes informes al CENEM.</p>
+    <p class="articulo">Quinto. Comunicación y avisos a la población.</p>
+    <p class="parrafo">Con el fin de garantizar una comunicación pública homogénea y adaptada a la naturaleza de la crisis, y de facilitar a los ciudadanos su derecho a la información establecido en el artículo 6 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, así como gestionar la obligación que impone a los medios de comunicación el artículo 7 bis, 8 de la misma Ley y el artículo 19 del Real Decreto 463/2020, de 14 de marzo, la inserción de mensajes, anuncios y comunicaciones se comunicarán previamente al CENEM.</p>
+    <p class="parrafo">Por la Dirección General de Protección Civil y Emergencias, se establecerán los mensajes que, en coordinación con las Autoridades Sanitarias, se estime conveniente difundir a través de la función de comunicación pública del ámbito de la protección civil, bien de oficio, bien a iniciativa y propuesta de los órganos correspondientes de las Comunidades y Ciudades con Estatuto de Autonomía.</p>
+    <p class="articulo">Sexto. Activación del voluntariado de protección civil.</p>
+    <p class="parrafo">Por los órganos competentes de cada Comunidad y Ciudad con Estatuto de Autonomía se adoptarán las medidas necesarias para la activación de los voluntarios de protección civil, informando al CENEM del número de efectivos movilizados.</p>
+    <p class="articulo">Séptimo. Publicación y entrada en vigor.</p>
+    <p class="parrafo">La presente Orden Ministerial surtirá efectos a partir su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Madrid, 15 de marzo de 2020.–El Ministro del Interior, Fernando Grande-Marlaska Gómez.</p>
+  </texto>
+</documento>
